@@ -2,7 +2,7 @@ body{
 	position: relative;
 	left: 500px;
 	top: 150px;
-	background-color: #09722D;
+	background-color: #007B20;
 }
 
 .d1{
@@ -23,6 +23,13 @@ position: relative;
 bottom: 12px;
 left: 5px;
 }
+.img5{
+	width: 55px;
+	height: 85px;
+	position: relative;
+	bottom: 70px;
+	left: 20px;
+}
 
 .d2{
 font-size: 18px;
@@ -41,6 +48,13 @@ color: #000000;
 position: relative;
 bottom: 12px;
 left: 5px;
+}
+.img4{
+	width: 55px;
+	height: 85px;
+	position: relative;
+	bottom: 70px;
+	left: 20px;
 }
 
 .d3{
@@ -61,6 +75,13 @@ position: relative;
 bottom: 12px;
 left: 5px;
 }
+.img3{
+	width: 55px;
+	height: 85px;
+	position: relative;
+	bottom: 70px;
+	left: 20px;
+}
 
 .d4{
 font-size: 18px;
@@ -79,6 +100,13 @@ color: #000000;
 position: relative;
 bottom: 10px;
 left: 5px;
+}
+.img2{
+	width: 55px;
+	height: 85px;
+	position: relative;
+	bottom: 70px;
+	left: 20px;
 }
 
 .d5{
@@ -100,7 +128,7 @@ bottom: 10px;
 left: 1px;
 
 }
-img{
+.img1{
 	width: 55px;
 	height: 85px;
 	position: relative;
